@@ -1,0 +1,11 @@
+:root {
+    --color1: #1E90FF;
+    --color2: #00D1EE;
+    --color3: #00E6BB;
+    --gradient: linear-gradient(70deg, var(--color1), var(--color3));
+    --dark: #2f2e41;
+    --gray: #b3b3b3;
+    --gray2: #e9e9e9;
+    --paddingy: clamp(0.3rem, 2vw, 0.6rem);
+    --paddingx: clamp(0.6rem, 2vw, 1.5rem)
+}
